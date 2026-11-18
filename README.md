@@ -9,6 +9,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -29,6 +30,8 @@ Whether you are designing a cross-region failover pipeline, migrating stateful p
 - [Open-Source Kubernetes Backup & Storage Ecosystem](#-open-source-kubernetes-backup--storage-ecosystem)
 - [Architectural Patterns & Selection Guide](#-architectural-patterns--selection-guide)
 - [How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [Star Hittory](#star-hittory)
 - [License & Disclaimer](#-license--disclaimer)
 
 ---
@@ -141,6 +144,25 @@ Contributions from Kubernetes operators, SREs, and storage engineers are welcome
 3. Add the project to the relevant section (`README.md`), keeping table columns and star badges strictly formatted.
 4. Commit your changes (`git commit -m "Add New-Tool to open-source backup table"`).
 5. Push to your branch and open a Pull Request.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated guide! Maintaining up-to-date, in-depth technical indices for the cloud-native ecosystem takes continuous research and testing.
+
+If you find this repository valuable, please consider:
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** and contributing your own insights, tools, or fixes
+- 📢 **Sharing** this guide with colleagues, DevOps teams, and platform engineering communities
+- ☕ **Buying a coffee / sponsoring** the project to support ongoing maintenance and new open-source initiatives:  
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/ishandutta2007)  
+  Visit the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+---
+
+##  Star Hittory
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup&type=date&legend=top-left)
 
 ---
 
