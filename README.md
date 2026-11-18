@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Kubernetes-Cluster-Persistent-Volume-Backup/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,9 +63,9 @@ The table below catalogs premier commercial and SaaS data resilience platforms o
 
 ## 💻 Open-Source Kubernetes Backup & Storage Ecosystem
 
-Open-source technologies power the modern cloud-native storage and disaster recovery paradigm. The repositories below are sorted in descending order by **GitHub Star Count**, featuring direct links to each project's stargazers community.
+Open-source technologies power the modern cloud-native storage and disaster recovery paradigm. The repositories below are sorted in descending order by **GitHub Stars_Count**, featuring direct links to each project's stargazers community.
 
-| Project & Repo Link | GitHub Stars ⭐ | Architecture & Specialization | Key Characteristics & Use Cases |
+| Project & Repo Link | GitHub_Stars ⭐ | Architecture & Specialization | Key Characteristics & Use Cases |
 | :--- | :--- | :--- | :--- |
 | **[etcd](https://github.com/etcd-io/etcd)** 🔑 | [![Stars](https://img.shields.io/github/stars/etcd-io/etcd?style=social&color=white)](https://github.com/etcd-io/etcd/stargazers) | Distributed reliable key-value store (K8s control plane state backend) | Foundational control plane storage; `etcdctl snapshot save` provides bare-metal cluster disaster recovery. |
 | **[restic](https://github.com/restic/restic)** 💾 | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Fast, secure, deduplicated, encrypted CLI backup engine | Embedded file-level volume backup driver used inside Velero, K8up, and Stash for persistent volumes without CSI snapshots. |
@@ -141,7 +141,7 @@ Contributions from Kubernetes operators, SREs, and storage engineers are welcome
 
 1. Fork this repository.
 2. Create your feature branch (`git checkout -b feature/new-k8s-backup-tool`).
-3. Add the project to the relevant section (`README.md`), keeping table columns and star badges strictly formatted.
+3. Add the project to the relevant section (`README.md`), keeping table columns and Stars_Badges strictly formatted.
 4. Commit your changes (`git commit -m "Add New-Tool to open-source backup table"`).
 5. Push to your branch and open a Pull Request.
 
